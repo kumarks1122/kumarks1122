@@ -18,7 +18,4 @@
   <a href="">
   <img alt="GitHub Streaks" width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=kumarks1122&theme=dracula&fire=B4DD23&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
-  <a href="">
-  <img alt="GitHub contrib" width="51%" src="https://github-readme-stats.vercel.app/api?username=kumarks1122&theme=dracula&custom_title=+&count_private=true&hide=contribs,prs"/>
-  </a>
 </div>
